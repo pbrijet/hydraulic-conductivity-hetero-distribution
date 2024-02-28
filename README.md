@@ -5,4 +5,4 @@ hydraulic conductivity heterogeneous distribution
 flopy,numpy, matplotlib, scipy
 
 # output visualization
-![Output screenshot] (https://github.com/pbrijet/hydraulic-conductivity-hetero-distribution/blob/main/output.PNG)
+![Alt Plot] (https://github.com/pbrijet/hydraulic-conductivity-hetero-distribution/blob/main/output.PNG?raw=true)
